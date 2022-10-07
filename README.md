@@ -1,3 +1,3 @@
 # DSML July and Advance Git Project
 
-This is a project to show the power of git 
+This is a project to show the power of git hub and version control
